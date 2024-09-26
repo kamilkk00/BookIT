@@ -1,4 +1,5 @@
 # BookIT – Platform for booking services
+## [Explore the Live Application](https://www.easybookitonline.com/)
 
 BookIT is a dynamic platform that simplifies the process of booking services by eliminating third-party intermediaries, allowing direct interaction between service providers and users. It enables professionals to offer their services while customers can easily book available time slots online.
 
@@ -61,18 +62,3 @@ Views.py
 All HTML pages are directly linked to the functions presented,
 
 In the static file there is css along with JS, but the presented functions have already been described above.
-
-## How to run application
-
-Starting the migration with creating a superuser and starting the server
-
-I.e.
-
-Python3 manage.py makemigration
-
-Python3 manage.py migrate
-
-Python3 manage.py createsuperuser
-
-Python3 manage.py runserver
-# BookIT
